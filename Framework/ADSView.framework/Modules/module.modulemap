@@ -1,0 +1,11 @@
+framework module ADSView {
+  umbrella header "ADSView.h"
+
+  export *
+  module * { export * }
+}
+
+module ADSView.Swift {
+    header "ADSView-Swift.h"
+    requires objc
+}
