@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/mickaelhero/ADSView"
   spec.author       = { "Mickael Belhassen" => "emoonadev@gmail.com" }
   spec.platform     = :ios, "11.0"
-  spec.source       = { :git => "https://github.com/mickaelhero/ADSView.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/mickaelhero/ADSView.git", :tag => "1.0.1" }
   spec.source_files  = "ADSView/**/*"
   spec.swift_version = '4.0'
 
